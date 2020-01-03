@@ -1,4 +1,6 @@
 # nmap2csv
+Python3 script to generate a CSV output file from an Nmap scan...
+
 
 Usage:
 
